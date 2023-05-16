@@ -1,6 +1,6 @@
 # A 4-way-Traffic-Light-Prototype-with-Arduino
 
-This project aims at mimicking the process of controlling **a 4-way Traffic light system** using a Programmable Logical Controller
+This project aims at mimicking the process of controlling **a 4-way Traffic light system** using a Programmable Logical Controller.
 The project provides a virtual environment for testing, as well as a miniature physical environment to show the output of the earlier conducted simulation in real time.
 
 
