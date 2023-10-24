@@ -1,11 +1,8 @@
 # A 4-way-Traffic-Light-Prototype-with-Arduino
-
-![20230508_153316](https://github.com/LateefAkinola/4-Way-Traffic-Light-Prototype-with-Arduino/assets/105966848/7f23ba04-cb89-4469-ad0d-2c41603a30ac)
+![20230508_153309-1](https://github.com/LateefAkinola/4-Way-Traffic-Light-Prototype-with-Arduino/assets/105966848/032a4126-0852-4ef1-aee3-5b8bc5d560d6)
 
 This project aims at mimicking the process of controlling **a 4-way Traffic light system** using a Programmable Logical Controller.
 The project provides a virtual environment for testing, as well as a miniature physical environment to show the output of the earlier conducted simulation in real-time.
-![20230508_153309](https://github.com/LateefAkinola/4-Way-Traffic-Light-Prototype-with-Arduino/assets/105966848/9561bc67-6e3c-4573-8b83-145840f06e50)
-
 
 ## Table of Content
 1. Introduction
